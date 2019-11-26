@@ -4,6 +4,6 @@
     <img src="./.github/nubank_menu.png" alt="Menu" height="500">
   </a>
 
-  <h3 align="center">Template Rocketseat Basic</h3>
+  <h3 align="center">Tela principal Nubank</h3>
 </p>
 
