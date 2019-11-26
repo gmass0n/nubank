@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="./.github/nubank_main.png" alt="Main" height="500">
-  <img src="./.github/nubank_menu.png" alt="Menu" height="500">
+  <a href="https://github.com/gmass0n/nubank">
+    <img src="./.github/nubank_main.png" alt="Main">
+    <img src="./.github/nubank_menu.png" alt="Main">
+  </a>
 
-  <h3 align="center">Interface principal Nubank</h3>
-  <p align="center">Aplicação React Native replicando a interace da nubank no utilizando suas animações</p>
+  <h3 align="center">Template Rocketseat Basic</h3>
 </p>
 
