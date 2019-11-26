@@ -5,5 +5,6 @@
   </a>
 
   <h3 align="center">Tela principal Nubank</h3>
+  <p>Aplicação copiando a tela principal da nubank e utilizando suas animações</p>
 </p>
 
